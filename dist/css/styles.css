@@ -92,7 +92,7 @@ body {
 }
 
 .section1{
-  background-image:url(/dist/assets/images/logoPI_\(1\).png);
+  background-image:url(/dist/assets/images/Prancheta\ 1.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -100,12 +100,20 @@ body {
   min-height: 500px; 
 }
 .section2{
-  background-image:url(/dist/assets/images/bolo7.png);
+  background-image:url(/dist/assets/images/Prancheta\ 1.png);
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 500px; 
+}
+.section3{
+  background-image:url(/dist/assets/images/Prancheta\ 1.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
 }
 
 
@@ -3469,6 +3477,7 @@ textarea.form-control-lg {
 .btn-outline-dark {
   color: #212529;
   border-color: #212529;
+  background-color: #ff2c00;
 }
 .btn-outline-dark:hover {
   color: #fff;
@@ -4567,6 +4576,7 @@ textarea.form-control-lg {
 .card-body {
   flex: 1 1 auto;
   padding: 1rem 1rem;
+  border-color:#ff2c00;
 }
 
 .card-title {
